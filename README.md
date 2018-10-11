@@ -1,7 +1,7 @@
 # mySQL
 
-
-Node.js & MySQL
+10: MySQL Homework	Week 12 
+Node.js & MySQL (Amazon)
 
 
 Overview

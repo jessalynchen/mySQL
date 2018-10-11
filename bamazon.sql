@@ -16,28 +16,28 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("laptop", "accessory", 10, 10);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("cellphone", "accessory", 80, 5);
+VALUES ("cellphone", "accessory", 800, 5);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("air conditioner", "home", 10, 5);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("camera", "accessory", 50, 5);
+VALUES ("camera", "accessory", 50, 2);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("keyboard", "accessory", 20, 10);
+VALUES ("keyboard", "accessory", 100, 10);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("USB", "accessory", 20, 50);
+VALUES ("USB", "accessory", 5, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("TV", "home", 20, 20);
+VALUES ("TV", "home", 2000, 20);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("headphone", "accessory", 80, 15);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("charger", "accessory", 20, 50);
+VALUES ("charger", "accessory", 30, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("battery", "accessory", 10, 20);
+VALUES ("battery", "accessory", 50, 20);

@@ -10,6 +10,8 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
+A screenshot of product types are lifestyle products for all things digital. For example, there are many home and accessories you can use. Please see the image outlined here of what's available:
+
 ![Products Screenshot](/assets/products.PNG)
 
 
